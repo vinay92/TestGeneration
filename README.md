@@ -2,8 +2,9 @@
 
 This assignment is used to generate test cases in the code for automated testing.
 
-In order to run the assignment, clone this repository
-The execute the following steps:
+In order to run the assignment, clone this repository.
+
+Then execute the following steps:
     cd TestGeneration
     npm install
 
