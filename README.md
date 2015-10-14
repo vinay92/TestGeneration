@@ -17,8 +17,5 @@ Directory Contents:
 ### Code Coverage in the assigment
 ![coverage](https://github.com/vinay92/TestGeneration/blob/master/Coverage.png)
 
-###Web view of the coverage
-![Web Coverage](https://github.com/vinay92/TestGeneration/blob/master/Web_coverage.png)
-
 
 
