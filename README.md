@@ -15,7 +15,7 @@ Directory Contents:
 * **test.js**: This is an automatically created test script. Running `node main.js` will create a new `test.js`.
 
 ### Code Coverage in the assigment
-
+![coverage](https://github.com/vinay92/TestGeneration/blob/master/Coverage.png)
 
 
 
